@@ -85,7 +85,7 @@ width: 100%;
 
 @media screen and (max-width: 600px) {
 .app {
-    width: 100%;
+    width: 95%;
 }
 .quote-text {
     font-size: 18px;
