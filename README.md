@@ -13,7 +13,7 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Detalhes do projeto
 
-Projeto foi feito usando uma função que gera uma referência aleatoria e pegae exxibe um objeto de uma Array de objetos.
+Projeto foi feito usando uma função que gera uma referência aleatoria, pega exibe um objeto de uma Array de objetos.
 
 ## Project details 
 
